@@ -1,0 +1,9 @@
+/usr/local/lib/libLightNet.so
+/usr/local/include/LightNet/core/.unit.h.swo
+/usr/local/include/LightNet/core/model.cpp
+/usr/local/include/LightNet/core/unit.h
+/usr/local/include/LightNet/core/unitSpace.h
+/usr/local/include/LightNet/core/.unit.h.swp
+/usr/local/include/LightNet/core/optimizer.h
+/usr/local/include/LightNet/core/model.h
+/usr/local/include/LightNet/core/procedure.h
